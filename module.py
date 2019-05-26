@@ -17,7 +17,7 @@ from time import time
 from camelcase  import CamelCase
 
 
-# import custom modeule:- 
+# import custom module:- 
 import validator
 from validator import validate_email
 
